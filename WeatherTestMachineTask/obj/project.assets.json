@@ -5163,11 +5163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherTestMachineTask.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\machine-task\\WeatherTestMachineTask\\WeatherTestMachineTask.csproj",
       "projectName": "WeatherTestMachineTask",
-      "projectPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherTestMachineTask.csproj",
+      "projectPath": "C:\\Users\\DELL\\machine-task\\WeatherTestMachineTask\\WeatherTestMachineTask.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\machine-task\\WeatherTestMachineTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
