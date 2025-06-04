@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\services\\iweatherserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:services\\iweatherserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\weatherdbcontext\\weatherdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:weatherdbcontext\\weatherdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\weatherdbcontext\\weatherapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:weatherdbcontext\\weatherapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\entities\\weatherhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:entities\\weatherhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|c:\\users\\dell\\onedrive\\desktop\\retail_dock\\retail-dock\\services\\weathertestmachinetask\\weathertestmachinetask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9F9DDFE-DCAD-4D6A-8B50-A9B6BE68EF42}|WeatherTestMachineTask.csproj|solutionrelative:weathertestmachinetask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherDbContext\\WeatherDbContextFactory.cs",
+              "RelativeDocumentMoniker": "WeatherDbContext\\WeatherDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherDbContext\\WeatherDbContextFactory.cs",
+              "RelativeToolTip": "WeatherDbContext\\WeatherDbContextFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:21:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWeatherServiceInterface.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Services\\IWeatherServiceInterface.cs",
+              "RelativeDocumentMoniker": "Services\\IWeatherServiceInterface.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Services\\IWeatherServiceInterface.cs",
+              "RelativeToolTip": "Services\\IWeatherServiceInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:59:22.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherHistory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Entities\\WeatherHistory.cs",
+              "RelativeDocumentMoniker": "Entities\\WeatherHistory.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Entities\\WeatherHistory.cs",
+              "RelativeToolTip": "Entities\\WeatherHistory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:34:24.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T06:27:42.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:19:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "ResponseDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\ResponseDto.cs",
+              "RelativeToolTip": "ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:16:44.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherDbContext\\WeatherApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WeatherDbContext\\WeatherApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherDbContext\\WeatherApplicationDbContext.cs",
+              "RelativeToolTip": "WeatherDbContext\\WeatherApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:02:53.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherTestMachineTask",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherTestMachineTask.csproj",
+              "RelativeDocumentMoniker": "WeatherTestMachineTask.csproj",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\WeatherTestMachineTask.csproj",
+              "RelativeToolTip": "WeatherTestMachineTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T06:01:42.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:01:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Desktop\\Retail_Dock\\Retail-Dock\\services\\WeatherTestMachineTask\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:00:07.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

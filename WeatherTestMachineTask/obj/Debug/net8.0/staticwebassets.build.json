@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9r3bRtbzGD5YlEx1Ox2pALOmyG5L49v6ja0I1+7CBPI=",
+  "Source": "WeatherTestMachineTask",
+  "BasePath": "_content/WeatherTestMachineTask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

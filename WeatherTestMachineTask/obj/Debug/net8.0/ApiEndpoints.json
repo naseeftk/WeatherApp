@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "WeatherTestMachineTask.Controllers.WeatherController",
+    "Method": "GetWeather",
+    "RelativePath": "Weather/{city}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WeatherTestMachineTask.Controllers.WeatherController",
+    "Method": "GetHistory",
+    "RelativePath": "Weather/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "from",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "to",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
